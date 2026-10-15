@@ -4,6 +4,8 @@ A Discord bot that runs IBM i queries for you. Type `/wrkactjob` and it replies 
 
 It uses the IBM Toolbox for Java (jt400) JDBC driver.
 
+![/wrkactjob output in Discord](docs/screenshot.png)
+
 ## What you need
 
 - Java 17 or newer
